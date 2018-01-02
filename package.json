@@ -1,0 +1,23 @@
+{
+  "name": "wgu_chatbot_poc_1",
+  "version": "1.0.0",
+  "description": "Build a bot in Node.js on Microsoft Bot Framework.\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wslade25/wgu_chat_bot.git"
+  },
+  "keywords": [
+    "bot",
+    "teams"
+  ],
+  "author": "Will Slade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wslade25/wgu_chat_bot/issues"
+  },
+  "homepage": "https://github.com/wslade25/wgu_chat_bot#readme"
+}
